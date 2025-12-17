@@ -735,13 +735,10 @@ textarea:focus {
   background: #fdecea;
   color: #b3261e;
 }
-<<<<<<< HEAD
 .home .card-container {
   display: flex;
   align-items: stretch;
 }
-=======
->>>>>>> 32e7498b6881a68f4ac36c2633dfff447871743e
 
 .card-extra p {
   margin: 0.25rem 0;
@@ -811,17 +808,7 @@ textarea:focus {
   .cart-icon {
     display: none;
   }
-<<<<<<< HEAD
   .home .card-container {
     flex-direction: column;
   }
-=======
-  .home .card-container{
-    display: flex;
-    flex-direction: column;
-  }
-  .home .img{
-    width: 100%;
-  }
->>>>>>> 32e7498b6881a68f4ac36c2633dfff447871743e
 }
